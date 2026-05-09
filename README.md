@@ -1,7 +1,7 @@
 # CTK46 — Bài Thực Hành 03
 
 **Môn học:** Các công nghệ mới trong phát triển phần mềm  
-**Sinh viên:** Phùng Võ Quốc Hiển — MSSV: 2212364  
+**Sinh viên:** Ngô Đăng Khoa— MSSV: 2212393
 **Lớp:** CTK46-PM — Khoa Công nghệ Thông tin, Đại học Đà Lạt  
 **GitHub:** [Lacia1803](https://github.com/Lacia1803)
 
